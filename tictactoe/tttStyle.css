@@ -1,0 +1,30 @@
+body {background-color: black;}
+
+#tiles {
+	background-color: black;
+	width: 400px;
+	height: 400px;
+}
+
+#messages {
+	width: 400px;
+	height: 200px;
+	background-color: black;
+}
+
+img {
+	height: 97%;
+	width: 30%;
+	border: 5x solid black;
+}
+
+.row {
+	height: 33%;
+	width: 100%;
+	margin: 0px;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
